@@ -276,3 +276,6 @@ button:hover, button:focus {
  /*contact page */
 }
 
+.contact-info {
+  text-align: center;
+}
