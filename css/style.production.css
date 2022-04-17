@@ -126,10 +126,10 @@ a:hover {
 .grid {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 300px 300px 200px;
-  grid-template-columns: 300px 300px 200px;
-  -ms-grid-rows: 200px 200px;
-  grid-template-rows: 200px 200px;
+  -ms-grid-columns: 330px 330px 330px;
+  grid-template-columns: 330px 330px 330px;
+  -ms-grid-rows: 260px 260px;
+  grid-template-rows: 260px 260px;
 }
 
 .grid > *:nth-child(1) {
