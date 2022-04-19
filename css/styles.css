@@ -140,10 +140,13 @@ a:hover {
   grid-row: 1 / 3;
 }
 
+.img-app {
+  width: 300px;
+}
+
   h1 {
     font-size: 22px;
   }
-}
 
 /* about.html button */
 .button,

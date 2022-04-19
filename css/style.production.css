@@ -156,6 +156,10 @@ a:hover {
   transition-property: opacity;
 }
 
+.img-app {
+  width: 300px;
+}
+
   h1 {
     font-size: 22px;
   }
@@ -178,6 +182,7 @@ a:hover {
   text-decoration: none;
   padding: 10px;
   border-radius: 3px;
+  
 
   /* width of the border, type, color */
   border-bottom: 2px solid rgba(0, 0, 0, 0.3);
@@ -202,6 +207,7 @@ button {
   text-decoration: none;
   padding: 10px;
   border-radius: 3px;
+  margin-right: 10px;
 
   /* width of the border, type, color */
   border-bottom: 2px solid rgba(0, 0, 0, 0.3);
