@@ -119,6 +119,11 @@ a:hover {
 
 /* workhtml */
 
+.grid-container {
+  display:flex;
+  justify-content: center;
+}
+
 .grid__item {
   background-color: lightblue;
 }
